@@ -1,8 +1,8 @@
 # FAISS-HuggingFace-RAG
 
-# Llama2 Medical Bot Using Chainlit App
+# Medical Bot Using Llama Model and Chainlit App
 
-The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
+The Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
 
 ## Table of Contents
 
@@ -72,3 +72,23 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 4. If sources are found, they will be provided alongside the answer.
 
 5. The bot can be customized to return specific information based on the query and context provided.
+
+   ![image](https://github.com/Manojcr06/FAISS-HuggingFace-RAG/assets/67838014/f3842971-510c-4f9c-acc4-17a55baaf9e1)
+
+## LangChain Retreival QA using Faiss DB as retreiver for the vectors
+
+   ![image](https://github.com/Manojcr06/FAISS-HuggingFace-RAG/assets/67838014/ab3e413c-2bc5-4b72-977c-f4ce5889d82a)
+   
+## Backend Image of the script analysing/getting the semantic query vectors the Faiss DB 
+
+   ![image](https://github.com/Manojcr06/FAISS-HuggingFace-RAG/assets/67838014/aa35573c-dce2-4f0c-ae26-c5567699ee3e)
+
+## End Results
+
+   ![image](https://github.com/Manojcr06/FAISS-HuggingFace-RAG/assets/67838014/7db8f596-5e96-41c7-9f1c-97039582bb00)
+
+
+   
+
+
+
