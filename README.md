@@ -33,7 +33,7 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+    On Windows, use: venv\Scripts\activate
     ```
 
 3. Install the required Python packages:
